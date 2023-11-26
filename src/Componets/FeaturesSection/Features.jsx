@@ -10,7 +10,7 @@ export const Feature1 = () => {
                 </div>
                 <div className='relative'>
                     <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png" className='relative z-[2]' />
-                    <video className='w-[72.5%] absolute top-[21%] left-[13.5%] z-[1]' autoPlay muted >
+                    <video className='w-[72.5%] absolute top-[21%] left-[13.5%] z-[1]'  autoplay loop >
                         <source src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-in-0819.m4v" />
                     </video>
                 </div>
@@ -65,7 +65,7 @@ export const Feature3 = () => {
                 </div>
                 <div className='relative'>
                     <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile-in.png" className='relative z-[2]' />
-                    <video className='w-[63%] absolute top-[10%] left-[18%] z-[1]' autoPlay muted >
+                    <video className='w-[63%] absolute top-[10%] left-[18%] z-[1]'  autoplay loop >
                         <source src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-devices-in.m4v" />
                     </video>
                 </div>

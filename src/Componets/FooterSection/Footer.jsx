@@ -3,7 +3,7 @@ export const Footer = () => {
         <section className='w-[100%] border-t-[8px] bg-black border-t-[rgb(35,35,35)] sm:py-[100px] py-[50px]'>
             <div className='max-w-[1170px] mx-auto px-[50px]'>
                 <div className='flex gap-[10px] mb-[12px]'>
-                    <p className='text-[16px] text-white'>Questions? Cal</p><p className='text-[16px] text-white underline'>000-800-919-1694</p>
+                    <p className='text-[16px] text-[rgba(255,255,255,0.7)]'>Questions? Cal</p><p className='text-[16px] text-white underline'>000-800-919-1694</p>
                 </div>
                 <div className='grid sm:grid-cols-4 grid-cols-2 text-white text-[16px] mb-[15px] sm:gap-[10px] gap-[20px]'>
                     <div>
