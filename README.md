@@ -1,3 +1,10 @@
+
+
+## Screenshots
+
+![Screenshot](https://github.com/puran66/Netflix-Clone-/blob/main/Images/screenshot.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
